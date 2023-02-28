@@ -1,0 +1,1 @@
+# In this repository I'll upload personal notes and code of Chapter 3 - Terraform up and running
